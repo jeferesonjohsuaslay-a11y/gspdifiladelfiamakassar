@@ -6,39 +6,8 @@ The official website of GSPDI Filadelfia Congregation, Makassar (GSPDI JF-Makass
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-### Tech Stack
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-
-## Installation
-
-```bash
-git clone https://github.com/Jefferson Slay/profile-website-of-gspdi-filadelfia-makassar.git
-cd profile-website-of-gspdi-filadelfia-makassar
-npm install gspdifiladelfiamakassar
-```
-
-## Usage
-
-```bash
-npm start
-```
-
-Describe how to use the project here.
 
 ## Contributing
 
@@ -56,4 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤ by [Jefferson Slay](https://github.com/Jefferson Slay)
+Made with ❤ by [jeferesonjohsuaslay-a11y](https://github.com/jeferesonjohsuaslay-a11y)
